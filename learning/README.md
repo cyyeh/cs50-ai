@@ -1,0 +1,23 @@
+# Learning
+
+- [Lecture Video](https://www.youtube.com/watch?v=E4M_IQG0d9g)
+  - 00:00:00 - Introduction
+  - 00:00:15 - Machine Learning
+  - 00:01:15 - Supervised Learning
+  - 00:08:11 - Nearest-Neighbor Classification
+  - 00:12:30 - Perceptron Learning
+  - 00:33:19 - Support Vector Machines
+  - 00:39:31 - Regression
+  - 00:42:37 - Loss Functions
+  - 00:49:33 - Overfitting
+  - 00:55:44 - Regularization
+  - 00:59:42 - scikit-learn
+  - 01:09:57 - Reinforcement Learning
+  - 01:13:02 - Markov Decision Processes
+  - 01:19:56 - Q-learning
+  - 01:38:54 - Unsupervised Learning
+  - 01:40:19 - k-means Clustering
+- [Lecture Slides](lecture4.pdf)
+- [Source Code](src4)
+- [Quiz 4](https://cs50.harvard.edu/ai/quizzes/4/)
+- [Project 4](https://cs50.harvard.edu/ai/projects/4/)
